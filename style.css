@@ -1,0 +1,29 @@
+body {
+
+	background: #B7E8AE;
+}
+
+
+
+
+.animal {
+	font-style: ;
+	margin: 5px;
+	background-color: green;
+	border-radius: 10px;
+	color: white;
+	font-size: 15px;
+
+}
+
+#gifs-appear-here {
+	float:left;
+
+}
+
+#animal-form {
+
+	float:right;
+	margin-right: 250px;
+
+}
